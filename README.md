@@ -1,1 +1,1 @@
-My first readme
+I'm proudly an Alx student.
